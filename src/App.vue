@@ -1,7 +1,7 @@
 /* eslint-disable no-undef */
 <template>
   <div>
-    <h1>Chart.js</h1>
+    <h1>Chart.js111</h1>
     <canvas id="myChart" width="400" height="400"></canvas>
   </div>
 </template>
